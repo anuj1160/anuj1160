@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/anuj644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/anuj644" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anuj-jain-a2425420b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuj-jain-a2425420b/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/anuj_aj_12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anuj_aj_12/" height="30" width="40" /></a>
+<a href="https://twitter.com/anuj644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/anuj644" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anuj-jain-a2425420b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuj-jain-a2425420b/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anuj_aj_12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/anuj_aj_12/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anuj1160" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/anuj1160" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anuj1160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/anuj1160" height="30" width="40" /></a>
 </p>
